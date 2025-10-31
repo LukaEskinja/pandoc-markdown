@@ -75,12 +75,12 @@ Primjer u primjeni:
 Ako želim dodati sliku potrebno je unijeti slijedeću sintaksu
 
 ```bash
-![Moj opis slike](../static/venecija.png)
+![Moj opis slike](pandoc-markdown/static/venecija.jpg)
 ```
 
 Primjer:
 
-![Moj opis slike](static/venecija.jpg)
+![Moj opis slike](pandoc-markdown/static/venecija.jpg)
 
 #### Dodavanje poveznice
 Ako želim dodati poveznicu potrebno je unijeti slijedeću sintaksu
