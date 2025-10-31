@@ -58,18 +58,18 @@ Primjeri u primjeni:
 Ako želim napraviti tablicu potrebno je unijeti slijedeću sintaksu
 
 ```bash
----
-Prvi stupac: "primjer1"
-Drugi stupac: "primjer2"
-Treci stupac: "primjer3"
----
+| Naslov  1 | Naslov  2 | Naslov  3 |
+|------------------|------------------|------------------|
+| Red 1, stupac 1 | Red 1, stupac 2 | Red 1, stupac 3 |
+| Red 2, stupac 1 | Red 2, stupac 2 | Red 2, stupac 3 |
 ```
 
 Primjer u primjeni:
 
-Prvi stupac: "primjer1"
-Drugi stupac: "primjer2"
-Treci stupac: "primjer3"
+| Naslov  1 | Naslov  2 | Naslov  3 |
+|------------------|------------------|------------------|
+| Red 1, stupac 1 | Red 1, stupac 2 | Red 1, stupac 3 |
+| Red 2, stupac 1 | Red 2, stupac 2 | Red 2, stupac 3 |
 
 ### Dodavanje slike iz static
 Ako želim dodati sliku potrebno je unijeti slijedeću sintaksu
@@ -80,7 +80,7 @@ Ako želim dodati sliku potrebno je unijeti slijedeću sintaksu
 
 Primjer:
 
-![Moj opis slike](../static/venecija.png)
+![Moj opis slike](static/venecija.jpg)
 
 #### Dodavanje poveznice
 Ako želim dodati poveznicu potrebno je unijeti slijedeću sintaksu
