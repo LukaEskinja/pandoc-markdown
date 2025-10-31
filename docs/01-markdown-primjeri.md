@@ -80,7 +80,7 @@ Ako želim dodati sliku potrebno je unijeti slijedeću sintaksu
 
 Primjer:
 
-![Moj opis slike](pandoc-markdown/static/venecija.jpg)
+![Moj opis slike](../static/venecija.jpg)
 
 #### Dodavanje poveznice
 Ako želim dodati poveznicu potrebno je unijeti slijedeću sintaksu
