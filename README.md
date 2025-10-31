@@ -1,5 +1,5 @@
 # 👾 Uvod u Pandoc i Markdown 👾
-Ova dokumentacija služi u svrhu primjene Pandoca za konverziju datoteka, odnosno Markdowna za izradu tehnicke dokumetacije.
+Ova dokumentacija služi u svrhu primjene Pandoca za konverziju datoteka, odnosno Markdowna za izradu tehničke dokumetacije.
 
 
 1. 👊 [Uvod u Pandoc](docs/02pandoc-primjeri-konverzije.md)
